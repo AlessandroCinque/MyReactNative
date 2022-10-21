@@ -12,8 +12,8 @@ export default function App() {
         </Text>
 
         <View style={styles.items}>
-          <Task text={'bukkin!'}/>
-          <Task text={'n\'cul a mammt!'}/>
+          <Task text={'boring task'}/>
+          <Task text={'cool task'}/>
         </View>
 
       </View>
